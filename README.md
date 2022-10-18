@@ -18,9 +18,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prajjwal-arora/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prajjwal-arora/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajjwalarora&show_icons=true&locale=en&layout=compact" alt="prajjwalarora" height="250" width="400" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajjwalarora&show_icons=true&locale=en&layout=compact" alt="prajjwalarora" height="125" width="200" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajjwalarora&show_icons=true&locale=en" alt="prajjwalarora" height="250" width="478" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajjwalarora&show_icons=true&locale=en" alt="prajjwalarora" height="125" width="239" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwalarora&" alt="prajjwalarora" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalarora&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwalarora" /> </p>

@@ -22,6 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajjwalarora&show_icons=true&locale=en" alt="prajjwalarora" height="150" width="286.8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwalarora&" alt="prajjwalarora" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwalarora&" alt="prajjwalarora" height="150" width="286.8" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalarora&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwalarora" /> </p>
 
